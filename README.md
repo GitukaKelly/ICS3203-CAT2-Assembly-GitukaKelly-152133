@@ -73,7 +73,7 @@ To compile and run any of the programs:
    ```bash
    ./program_name
 
-NB: Replace the program_name with the actual name of file to each task.
+NB: Replace the **program_name** with the actual name of file to each task.
 
 ## Insights and Challenges
 
